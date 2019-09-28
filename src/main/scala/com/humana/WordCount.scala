@@ -18,5 +18,8 @@ object WordCount {
     
     // Print the results.
     wordCounts.foreach(println)
+    
+    
+    //final result is addded
   }
 }
