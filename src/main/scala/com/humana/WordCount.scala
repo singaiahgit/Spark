@@ -20,6 +20,6 @@ object WordCount {
     wordCounts.foreach(println)
     
     
-    //final result
+    //final result is addded
   }
 }
